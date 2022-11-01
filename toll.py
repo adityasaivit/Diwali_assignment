@@ -1,4 +1,3 @@
-print("hello world")
 km=int(input())
 if(km<=1000):
     print("0")
