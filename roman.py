@@ -1,7 +1,6 @@
 n=int(input())
 if(n<40):
     n1=int(n/10)
-    print(n1)
     for i in range(1,n1+1,1):
         print("X",end="")
     n2=int(n%10)
@@ -12,7 +11,7 @@ if(n<40):
         print("IV")
     elif((n2>=5)&(n2<=8)):
         print("V",end="")
-        for k in range(1,n3-4,1):
+        for k in range(1,n2-4,1):
             print("I",end="")
     elif(n2==9):
         print("IX")
