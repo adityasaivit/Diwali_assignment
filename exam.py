@@ -1,4 +1,3 @@
-print("hello world")
 h=int(input())
 a=int(input())
 m=int(input())
