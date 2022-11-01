@@ -1,4 +1,3 @@
-print("Hello world")
 tax=0
 i=int(input())
 if(i>1000000):
