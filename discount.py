@@ -1,4 +1,3 @@
-print("Hello world")
 i=int(input())
 p=int(input())
 dis=0
