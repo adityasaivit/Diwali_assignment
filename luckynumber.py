@@ -1,4 +1,3 @@
-# Online Python compiler (interpreter) to run Python online.
 d=input()
 sum=0
 sum1=0
